@@ -1,1 +1,1 @@
-#Running Ollama on Google Colab Through Pinggy
+# Running Ollama on Google Colab Through Pinggy
